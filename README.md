@@ -1,3 +1,3 @@
-# DevOps
+# Vagrant
 
-Docker, Kubernetes, Ansible, Terraform, AWS, GitLab CI/CD, Jenkins and Vagrant
+Setting up local dev envs with vagrant
